@@ -1,6 +1,6 @@
 ## Description
 
-mm-microservice is a microservice used to fetch the API and store the data in the Database, Publish the User data to the frontend and update the data in the table.
+Media-Mint-Microservice is a nest.js application used to fetch the API and store the data in the Database, Publish the User data to the frontend and update the data in the table.
 
 ## Note:
 
